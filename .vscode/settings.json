@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "yaml.schemas": {
+        "https://json.schemastore.org/pubspec.json": "file:///home/yanlien/Program/Rust/hello-tf/hello/pubspec.yaml"
+    }
+}
